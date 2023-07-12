@@ -9,7 +9,7 @@ I have a background in Civil Engineering. My interest in computers has led me to
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Adeola's Portfolio](http://www.adeolabada.com/)
 * ✉️  You can contact me at [dunsin.bada@gmail.com](mailto:dunsin.bada@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning how to use Docker
 * 🤝  I'm open to collaborating on Interesting projects with TypeScript, JavaScript, Vue.js, Nodejs or PHP (Laravel)
 * ⚡  I love playing video games, spending time with my family or walking my dog.
 
