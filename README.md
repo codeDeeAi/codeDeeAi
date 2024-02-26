@@ -6,7 +6,6 @@ Full-Stack Software Developer
 
 I have a background in Civil Engineering. My interest in computers has led me to pursue a career in software development. I am a fast learner with a keen interest in solving problems, I have a great passion for building modern, fast, simple, efficient, and scalable web solutions. I enjoy working with JavaScript, Vue.js, PHP, Laravel, Nodejs and Expressjs
 
-* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Adeola's Portfolio](http://www.adeolabada.com/)
 * ✉️  You can contact me at [dunsin.bada@gmail.com](mailto:dunsin.bada@gmail.com)
 * 🧠  I'm learning how to use Docker
