@@ -11,7 +11,7 @@ I value clean architecture, maintainable code, and well-thought-out developer ex
 
 #### 🖥️ Core Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,typescript,javascript,go,redis,mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,typescript,javascript,rust,redis,mysql,mongodb,postgres" />
 </p>
 
 #### 💻 Frontend & UI
