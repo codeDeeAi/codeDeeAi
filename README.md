@@ -1,9 +1,9 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Adeola Bada  
-### Senior Backend Engineer | Laravel • Node.js • TypeScript • Go  
+### Senior Backend Engineer | Laravel • Node.js • TypeScript • Rust (WIP..)  
 
 I'm a full-stack developer turned **Senior Backend Engineer** passionate about designing robust, scalable, and elegant systems. With a background in Civil Engineering and a strong love for technology, I’ve built and led teams delivering production-grade APIs, payment systems, and real-time applications across multiple industries.
 
-I value clean architecture, maintainable code, and well-thought-out developer experiences. Currently pursuing my **Master’s in Information Technology** at Miva Open University and learning **Go (Golang)** to expand my backend versatility.
+I value clean architecture, maintainable code, and well-thought-out developer experiences. Currently pursuing my **Master’s in Information Technology** at Miva Open University and learning **Rust** to expand my backend versatility.
 
 ---
 
