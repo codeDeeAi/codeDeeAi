@@ -33,7 +33,7 @@ I value clean architecture, maintainable code, and well-thought-out developer ex
 - 🧠 Leading teams since 2023  
 - ⚡ Experienced in designing RESTful APIs and optimizing performance  
 - 🧾 Skilled in caching, queue management, and code architecture  
-- 🚀 Currently exploring Go and distributed system concepts  
+- 🚀 Currently exploring Rust and distributed system concepts  
 
 ---
 
